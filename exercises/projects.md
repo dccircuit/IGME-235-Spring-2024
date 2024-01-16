@@ -6,10 +6,27 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - Check out the links below and visit at least one project in each category.
 - Watch the Projects Overview Video also linked to from the first week's myCourses content area.
 
-### Category 1: One-Page Websites (mostly) - These are all portfolios, but NEW THIS YEAR, creating a portfolio is no longer a requirement for this project.  
-- Additionally, you'll be expected to duplicate an existing design as your starting point for this Project.  So while these projects do contain some interesting ideas, the first Project will be somewhat different.
+### Category 1: One-Page Websites (mostly) - Most of these are portfolios, but NEW THIS PAST YEAR, creating a portfolio is no longer a requirement for this project.  
+- You'll be expected to duplicate an existing design as your starting point for this Project. (see "spec" links for some of these examples -- some are very similar to their spec, others wildly different -- that's okay). Older examples, while they do contain some interesting ideas, they don't convey the full assignment.
 
-#### Recent Portfolios - Please note: Do not share.  They are not necessarily complete yet.
+#### Newer Project Ones - "Design to Spec & Adapt to Content"
+- https://people.rit.edu/sgr2545/235/project1/ [(spec)](https://people.rit.edu/sgr2545/235/project1/spec.html)
+- https://people.rit.edu/mt3982/235/project1/ [(spec)](https://people.rit.edu/mt3982/235/project1/spec.html)
+- https://people.rit.edu/aac4114/235/project1/ [(spec)](https://people.rit.edu/aac4114/235/project1/spec.html)
+- https://people.rit.edu/wcd6573/235/project1/ [(spec)](https://people.rit.edu/wcd6573/235/project1/spec.html)
+- https://people.rit.edu/rcc3452/IGME-235/project1/ [(spec)](https://people.rit.edu/rcc3452/IGME-235/project1/spec.html)
+- https://people.rit.edu/myw4072/Projects/project1/ [(spec)](https://people.rit.edu/myw4072/Projects/project1/spec.html)
+- https://people.rit.edu/lfp9381/235/project1/ [(spec)](https://people.rit.edu/lfp9381/235/project1/spec.html)
+- https://people.rit.edu/jws8554/235/project1/ [(spec)](https://people.rit.edu/jws8554/235/project1/spec.html)
+- https://people.rit.edu/iah7731/235/project1/ [(spec)](https://people.rit.edu/iah7731/235/project1/spec.html)
+- https://people.rit.edu/tdh5759/235/project1/ [(spec)](https://people.rit.edu/tdh5759/235/project1/spec.html)
+- https://people.rit.edu/jkl7075/235/project1/ [(spec)](https://people.rit.edu/jkl7075/235/project1/spec.html)
+- https://people.rit.edu/jmj2097/235/project1/ [(spec)](https://people.rit.edu/jmj2097/235/project1/spec.html)
+- https://people.rit.edu/cae6859/235/project1/ [(spec)](https://people.rit.edu/cae6859/235/project1/spec.html)
+- https://people.rit.edu/npm6484/235/project1/ [(spec)](https://people.rit.edu/npm6484/235/project1/spec.html)
+- https://people.rit.edu/jpc4483/235/Project-1/ [(spec)](https://people.rit.edu/jpc4483/235/Project-1/spec.html)
+
+#### Previous Demo Portfolios - Please note: Do not share.  They are not necessarily complete yet.
 - https://people.rit.edu/bjc8253/235/project1/
 - https://people.rit.edu/lr4631/
 - https://people.rit.edu/ijr8454/235/project1/
@@ -24,7 +41,6 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - https://people.rit.edu/ces5666/235/project1
 - https://people.rit.edu/mhc4466/235/project1/
 - https://people.rit.edu/nsw7227/
-- https://people.rit.edu/axt6773/235/project1/
 - https://people.rit.edu/cam8030/conniem
 - https://people.rit.edu/jts4605/portfolio/
 - https://people.rit.edu/tmm8046/235/project1
@@ -33,16 +49,10 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - https://people.rit.edu/jdh5563/
 - https://people.rit.edu/kcj7751/235/project1/
 - https://people.rit.edu/msm6982/235/project1/
-- https://people.rit.edu/cms5882/235/project1/
-
-#### Previous Demo Portfolios
-- https://www.katiepustolski.com/
 - http://brianemling.com/
 - https://dougwatro.com/
 - https://people.rit.edu/mjc9536/235/project1/
 - https://people.rit.edu/dmd7488/
-- https://people.rit.edu/dg1229/portfolio
-- https://people.rit.edu/jml8375/235/Project1/
 - https://people.rit.edu/nqs3694/Portfolio/
 - https://people.rit.edu/nfb1799/portfolio
 - https://people.rit.edu/hc8756/235/project1/
@@ -51,18 +61,13 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - https://people.rit.edu/lep2738/portfolio/
 - https://people.rit.edu/ajr6974/230/portfolio/
 - https://people.rit.edu/ncs2738/portfolio/
-- https://people.rit.edu/jcs1738/230/portfolio/
 - https://people.rit.edu/rcm4155/230/portfolio/
-- https://people.rit.edu/ctb4332/portfolio/
-- https://people.rit.edu/acm1551/235/portfolio/
 - https://people.rit.edu/txa7348
 - https://people.rit.edu/kle4382/portfolio/
 - https://people.rit.edu/cre1467
 - https://people.rit.edu/cjm8652/
-- https://people.rit.edu/ald1289/portfolio/
 - https://people.rit.edu/dls7470/235/portfolio/
 - http://lightling.xyz/
-- https://people.rit.edu/wsb6157
 - https://people.rit.edu/nzl6723/235/portfolio/
 - https://people.rit.edu/nkz4713/235/portfolio/
 - https://people.rit.edu/vae3742/235/portfolio/
