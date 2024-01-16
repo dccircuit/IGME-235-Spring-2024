@@ -10,21 +10,21 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - You'll be expected to duplicate an existing design as your starting point for this Project. (see "spec" links for some of these examples -- some are very similar to their spec, others wildly different -- that's okay). Older examples, while they do contain some interesting ideas, they don't convey the full assignment.
 
 #### Newer Project Ones - "Design to Spec & Adapt to Content"
-- https://people.rit.edu/sgr2545/235/project1/ [(spec)](https://people.rit.edu/sgr2545/235/project1/spec.html)
-- https://people.rit.edu/mt3982/235/project1/ [(spec)](https://people.rit.edu/mt3982/235/project1/spec.html)
-- https://people.rit.edu/aac4114/235/project1/ [(spec)](https://people.rit.edu/aac4114/235/project1/spec.html)
-- https://people.rit.edu/wcd6573/235/project1/ [(spec)](https://people.rit.edu/wcd6573/235/project1/spec.html)
-- https://people.rit.edu/rcc3452/IGME-235/project1/ [(spec)](https://people.rit.edu/rcc3452/IGME-235/project1/spec.html)
-- https://people.rit.edu/myw4072/Projects/project1/ [(spec)](https://people.rit.edu/myw4072/Projects/project1/spec.html)
-- https://people.rit.edu/lfp9381/235/project1/ [(spec)](https://people.rit.edu/lfp9381/235/project1/spec.html)
-- https://people.rit.edu/jws8554/235/project1/ [(spec)](https://people.rit.edu/jws8554/235/project1/spec.html)
-- https://people.rit.edu/iah7731/235/project1/ [(spec)](https://people.rit.edu/iah7731/235/project1/spec.html)
-- https://people.rit.edu/tdh5759/235/project1/ [(spec)](https://people.rit.edu/tdh5759/235/project1/spec.html)
-- https://people.rit.edu/jkl7075/235/project1/ [(spec)](https://people.rit.edu/jkl7075/235/project1/spec.html)
-- https://people.rit.edu/jmj2097/235/project1/ [(spec)](https://people.rit.edu/jmj2097/235/project1/spec.html)
-- https://people.rit.edu/cae6859/235/project1/ [(spec)](https://people.rit.edu/cae6859/235/project1/spec.html)
-- https://people.rit.edu/npm6484/235/project1/ [(spec)](https://people.rit.edu/npm6484/235/project1/spec.html)
-- https://people.rit.edu/jpc4483/235/Project-1/ [(spec)](https://people.rit.edu/jpc4483/235/Project-1/spec.html)
+- https://people.rit.edu/sgr2545/235/project1/ [(spec)](https://people.rit.edu/sgr2545/235/project1/spec.html) [(doc)](https://people.rit.edu/sgr2545/235/project1/doc.html)
+- https://people.rit.edu/mt3982/235/project1/ [(spec)](https://people.rit.edu/mt3982/235/project1/spec.html) [(doc)](https://people.rit.edu/mt3982/235/project1/doc.html)
+- https://people.rit.edu/aac4114/235/project1/ [(spec)](https://people.rit.edu/aac4114/235/project1/spec.html) [(doc)](https://people.rit.edu/aac4114/235/project1/doc.html)
+- https://people.rit.edu/wcd6573/235/project1/ [(spec)](https://people.rit.edu/wcd6573/235/project1/spec.html) [(doc)](https://people.rit.edu/wcd6573/235/project1/doc.html)
+- https://people.rit.edu/rcc3452/IGME-235/project1/ [(spec)](https://people.rit.edu/rcc3452/IGME-235/project1/spec.html) [(doc)](https://people.rit.edu/rcc3452/IGME-235/project1/doc.html)
+- https://people.rit.edu/myw4072/Projects/project1/ [(spec)](https://people.rit.edu/myw4072/Projects/project1/spec.html) [(doc)](https://people.rit.edu/myw4072/Projects/project1/doc.html)
+- https://people.rit.edu/lfp9381/235/project1/ [(spec)](https://people.rit.edu/lfp9381/235/project1/spec.html) [(doc)](https://people.rit.edu/lfp9381/235/project1/doc.html)
+- https://people.rit.edu/jws8554/235/project1/ [(spec)](https://people.rit.edu/jws8554/235/project1/spec.html) [(doc)](https://people.rit.edu/jws8554/235/project1/doc.html)
+- https://people.rit.edu/iah7731/235/project1/ [(spec)](https://people.rit.edu/iah7731/235/project1/spec.html) [(doc)](https://people.rit.edu/iah7731/235/project1/doc.html)
+- https://people.rit.edu/tdh5759/235/project1/ [(spec)](https://people.rit.edu/tdh5759/235/project1/spec.html) [(doc)](https://people.rit.edu/tdh5759/235/project1/doc.html)
+- https://people.rit.edu/jkl7075/235/project1/ [(spec)](https://people.rit.edu/jkl7075/235/project1/spec.html) [(doc)](https://people.rit.edu/jkl7075/235/project1/doc.html)
+- https://people.rit.edu/jmj2097/235/project1/ [(spec)](https://people.rit.edu/jmj2097/235/project1/spec.html) [(doc)](https://people.rit.edu/jmj2097/235/project1/doc.html)
+- https://people.rit.edu/cae6859/235/project1/ [(spec)](https://people.rit.edu/cae6859/235/project1/spec.html) [(doc)](https://people.rit.edu/cae6859/235/project1/doc.html)
+- https://people.rit.edu/npm6484/235/project1/ [(spec)](https://people.rit.edu/npm6484/235/project1/spec.html) [(doc)](https://people.rit.edu/npm6484/235/project1/doc.html)
+- https://people.rit.edu/jpc4483/235/Project-1/ [(spec)](https://people.rit.edu/jpc4483/235/Project-1/spec.html) [(doc)](https://people.rit.edu/jpc4483/235/Project-1/doc.html)
 
 #### Previous Demo Portfolios - Please note: Do not share.  They are not necessarily complete yet.
 - https://people.rit.edu/bjc8253/235/project1/
